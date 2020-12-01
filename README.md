@@ -1,1 +1,1 @@
-Dette er en endring
+Dette er en endring til
